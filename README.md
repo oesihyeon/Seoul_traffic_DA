@@ -1,4 +1,4 @@
-# Seoul_transportation_DA
+# Seoul_traffic_DA
 서울시 대중교통 분석 (광역버스로 인한 서울 내 교통 정체 파악 및 해결책 제안)
 ## 팀원
 - 김명균
